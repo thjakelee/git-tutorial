@@ -1,10 +1,10 @@
 # Git Tutorial
 
 
--feature-A
+- feature-A
 
--feature-B
+- feature-B
 
--feature-C
+- feature-C
 
--feature-D
+- feature-D
